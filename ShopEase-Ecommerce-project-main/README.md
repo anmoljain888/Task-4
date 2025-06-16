@@ -4,13 +4,7 @@ An E-commerce platform with Progressive Web App (PWA) functionalities, designed 
 
 ---
 
-##  Team Members
 
-- **Sayad Ibna Azad** – `210041251`
-- **Ashfak Azad Nafi** – `210041245`
-- **Rashikh Ahmad** – `210041255`
-
----
 
 ##  Overview
 
